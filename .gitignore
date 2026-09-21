@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# GitHub Actions self-hosted runner binaries
+actions-runner/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
